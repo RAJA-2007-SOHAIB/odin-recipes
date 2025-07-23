@@ -1,0 +1,45 @@
+html{
+    box-sizing: border-box;
+    background-color: rgb(89, 89, 89);
+    color: aliceblue;
+    
+    margin: 0px 5px;
+}
+
+
+
+
+.first a{
+    display: block;
+
+    width: fit-content;
+    padding: 0px 14px 0px;
+    border: 0px 2px 0px;
+    background-color: rgb(255, 255, 255);
+    margin: 0px 14px 0px;
+    
+}
+.recipe-name{
+    display: block;
+    text-align: center;
+    background-color: white;
+    color: black;
+    width: 500px;
+    padding: 2px 5px;
+    margin: 0px auto;
+    
+
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+    width: 500px;
+    
+}
+
+.details{
+    
+    color: black;
+    margin: 14px;
+}
